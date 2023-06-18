@@ -24,4 +24,7 @@ These additional references should also help you:
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
 
 http://localhost:8081/ - to see eureka-server dashboard with list of all microservices
+ 
+eureka-server - where to publish microservice, it's a container
+eureka-client- will publish microservices on eureka-server, microservice producer
 
